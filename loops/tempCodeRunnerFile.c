@@ -1,0 +1,1 @@
+//wap to find sum of digit of given number
